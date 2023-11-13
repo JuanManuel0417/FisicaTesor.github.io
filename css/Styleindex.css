@@ -2,37 +2,54 @@ body{
     margin: 0px;
     padding: 0%;
     font-family: 'Arial', sans-serif;
-    background-image: url('../img/Fondo_1.jpg'); 
-    background-size: cover; 
-    background-position: center; 
+    background-image: url('../img/Fondo_1.jpg');
+    background-size: cover;
     background-repeat: no-repeat; 
-    color: white;
+    background-attachment: fixed;
+    color: black;
 }
 
 .arriba{
     text-align: center;
-    background-color: #89541C;
-    margin-top: 2%;
-    margin-left: 13%;
+    background-color: #e2e2e2;
+    margin: 1% auto;
     padding: 8px;
-    width: 70%;
+    width: 90%;
     height: auto;
     border-radius: 30px;
 }
 
 .Contenedor{
-    background-color: #89541C;
-    margin-top: 3%;
-    margin-left: 13%;
+    background-color: #e2e2e2;
+    margin: 1% auto;
     padding: 5px;
-    width: 70%;
+    width: 90%;
     height: auto;
     border-radius: 30px;
+    margin-bottom: 2%;
 }
+
 
 li{
     margin-top: 20px;
+    font-size: 18px;
+    margin-right: 0;
 }
 
 
+a{
+    text-decoration: none;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+}
 
