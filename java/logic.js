@@ -6,7 +6,7 @@ const acertijos = [
 
     { pregunta: "Frente de este salón con desconocida ubicación se encuentra en reposo un objeto gracias a la tensión. Ingresa el código", respuestas: ["456"] },
 
-    { pregunta: "Lugar frío que congela nuestros huesos, lugar frío que duerme nuestros dedos, lugar frío en donde no usamos cuadernos.", respuestas: ["0.041s"] },
+    { pregunta: "Lugar frío que congela nuestros huesos, lugar frío que duerme nuestros dedos, lugar frío en donde no usamos cuadernos.", respuestas: ["148,456s"] },
 
     { pregunta: "Personas vestidas de blanco atraen nuestra atención, con aromas deliciosos roban nuestro corazón.", respuestas: ["54"] },
 
