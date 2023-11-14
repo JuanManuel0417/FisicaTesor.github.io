@@ -1,18 +1,12 @@
 body {
-    margin: 0;
-    padding: 0;
     font-family: 'Arial', sans-serif;
-    background-image: url('../img/Fondo_1.jpg');
-    background-size: cover;
-    background-repeat: no-repeat; 
-    background-attachment: fixed;
+    margin: 20px;
 }
 
 #acertijo-container {
-    margin-top: 50%;
     max-width: 600px;
-    margin: 20% auto;
-    background-color: #e2e2e2;
+    margin: 0 auto;
+    background-color: #f4f4f4;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -22,37 +16,22 @@ body {
 #respuesta-input {
     padding: 8px;
     margin-top: 10px;
-    border-radius: 10px;
-    font-size: 18px;
-    width: 80%; /* Ajustar el ancho del input */
-    box-sizing: border-box;
 }
 
 button {
-    font-size: 18px;
     padding: 10px;
-    border-radius: 10px;
     background-color: #4caf50;
-    padding: 10px;
     color: white;
     border: none;
     cursor: pointer;
-    margin: 20px auto;
 }
 
+button:hover {
+    background-color: #45a049;
+}
 
 #resultado-container {
     margin-top: 20px;
     text-align: center;
     font-weight: bold;
-}
-
-@media only screen and (max-width: 600px) {
-    #acertijo-container {
-        margin: 10% auto;
-    }
-
-    #respuesta-input {
-        width: 100%; /* Hacer que el input ocupe todo el ancho en dispositivos móviles */
-    }
 }
