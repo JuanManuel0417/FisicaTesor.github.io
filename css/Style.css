@@ -24,6 +24,8 @@ body {
     margin-top: 10px;
     border-radius: 10px;
     font-size: 18px;
+    width: 80%; /* Ajustar el ancho del input */
+    box-sizing: border-box;
 }
 
 button {
@@ -35,6 +37,7 @@ button {
     color: white;
     border: none;
     cursor: pointer;
+    margin: 20px auto;
 }
 
 
@@ -46,7 +49,10 @@ button {
 
 @media only screen and (max-width: 600px) {
     #acertijo-container {
-        margin: 10% auto; /* Ajustar el margen para dispositivos móviles */
-        padding: 10px; /* Ajustar el relleno para dispositivos móviles */
+        margin: 10% auto;
+    }
+
+    #respuesta-input {
+        width: 100%; /* Hacer que el input ocupe todo el ancho en dispositivos móviles */
     }
 }
