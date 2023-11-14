@@ -43,3 +43,10 @@ button {
     text-align: center;
     font-weight: bold;
 }
+
+@media only screen and (max-width: 600px) {
+    #acertijo-container {
+        margin: 10% auto; /* Ajustar el margen para dispositivos móviles */
+        padding: 10px; /* Ajustar el relleno para dispositivos móviles */
+    }
+}
