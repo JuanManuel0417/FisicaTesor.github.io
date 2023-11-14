@@ -1,14 +1,19 @@
 body {
     font-family: 'Arial', sans-serif;
     margin: 20px;
+    background-image: url('../img/Fondo_1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    color: black;
 }
 
 #acertijo-container {
     max-width: 600px;
-    margin: 0 auto;
-    background-color: #f4f4f4;
+    margin: 12% auto 0;
+    background-color: #e2e2e2;
     padding: 20px;
-    border-radius: 8px;
+    border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
@@ -16,10 +21,12 @@ body {
 #respuesta-input {
     padding: 8px;
     margin-top: 10px;
+    border-radius: 10px;
 }
 
 button {
     padding: 10px;
+    border-radius: 10px;
     background-color: #4caf50;
     color: white;
     border: none;
