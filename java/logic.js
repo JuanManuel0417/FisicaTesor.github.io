@@ -4,7 +4,7 @@ const acertijos = [
 
     { pregunta: "¿300 000 cm cuántos km son?", respuestas: ["3km"] },
 
-    { pregunta: "Frente de este salón con desconocida ubicación se encuentra en reposo un objeto gracias a la tensión. Ingresa el código", respuestas: ["456"] },
+    { pregunta: "Frente de este salón con desconocida ubicación se encuentra en reposo un objeto gracias a la tensión. Ingresa el código", respuestas: ["556"] },
 
     { pregunta: "Lugar frío que congela nuestros huesos, lugar frío que duerme nuestros dedos, lugar frío en donde no usamos cuadernos.", respuestas: ["148,456s"] },
 
