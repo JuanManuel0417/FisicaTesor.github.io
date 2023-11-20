@@ -12,9 +12,9 @@ const acertijos = [
 
     { pregunta: ":¿A qué velocidad debe circular un auto de carreras para recorrer 113 km en un cuarto de hora?", respuestas: ["125,555m/s"] },
 
-    { pregunta: "Lugar lleno de líricas invadido de silencio, lugar asombroso que no valoramos, textos polvorientos que al ver nos da asco.", respuestas: ["4,2x10 a la 10km"] },
+    { pregunta: "Lugar que estaba lleno de líricas invadido de silencio, lugar asombroso que no valoramos, textos polvorientos que al ver nos da asco. Ahora solo quedan los recuerdos", respuestas: ["4,2x10 a la 10km"] },
 
-    { pregunta: "Gigante calvo, gordo y gruñón, gigante ausente, feo y mandón, gigante relacionado con el orden de la institución ¿Qué lugar será?", respuestas: ["Hz"] },
+    { pregunta: "Nos llevan a la fuerza con intencion de expulsarnos ¿Qué lugar será?", respuestas: ["Hz"] },
 
     { pregunta: " Espacio de mandones, gordos, altos, viejos y pequeños, espacio de posibles soluciones en donde se ruega por lo imposible.", respuestas: ["4890HGKRTY67000DFTHJKNM…KL-MALO"] },
 
